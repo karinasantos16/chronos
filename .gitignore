@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.vite/
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Banco SQLite local e protótipo original (ficam só na máquina)
+chronos.db
+Chronos.html
